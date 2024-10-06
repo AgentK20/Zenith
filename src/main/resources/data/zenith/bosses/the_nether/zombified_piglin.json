@@ -12,7 +12,7 @@
 		"minecraft:the_nether"
 	],
 	"min_rarity": "rare",
-	"max_rarity": "epic",
+	"max_rarity": "mythic",
 	"stats": {
 		"rare": {
 			"enchant_chance": 0.5,

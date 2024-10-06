@@ -3,7 +3,7 @@
         "minecraft:the_nether"
     ],
     "min_rarity": "zenith:uncommon",
-    "max_rarity": "zenith:epic",
+    "max_rarity": "zenith:mythic",
     "weight": 100,
     "quality": 1.0,
     "stack": {

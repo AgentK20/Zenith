@@ -5,7 +5,7 @@
 		"item": "minecraft:trident"
 	},
 	"min_rarity": "zenith:uncommon",
-	"max_rarity": "zenith:epic",
+	"max_rarity": "zenith:mythic",
 	"dimensions": [
 		"minecraft:the_nether"
 	]
